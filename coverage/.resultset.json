@@ -1,0 +1,35 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/andela/Desktop/todo-app-api/app/models/item.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/andela/Desktop/todo-app-api/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/andela/Desktop/todo-app-api/spec/models/todo_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Users/andela/Desktop/todo-app-api/app/models/todo.rb": [
+        1,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1560838709
+  }
+}
