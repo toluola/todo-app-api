@@ -11,7 +11,7 @@ class AuthorizeApiRequest
 
   private
 
-  attr_reader headers
+  attr_reader :headers
 
   def user
     @user ||= User.find(decoded_token[:user_id]) if decoded_token
